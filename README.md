@@ -46,7 +46,6 @@ Outros repositórios de aula com o mesmo tema:
 
 - [AppArmazenamentoInternoJavaAndroid](https://github.com/fabcurvello/AppArmazenamentoInternoJavaAndroid)
 - [AppArmazenamentoInternoAnima](https://github.com/fabcurvello/AppArmazenamentoInternoAnima)
-- [AppArmazenamentoInternoJava](https://github.com/fabcurvello/AppArmazenamentoInternoJava)
 - [AppArmazenamentoInternoKotlin](https://github.com/fabcurvello/AppArmazenamentoInternoKotlin)
 
 ## Autor
